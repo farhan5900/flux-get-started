@@ -1,0 +1,1 @@
+{"jobID":"be67ab81-8bf9-8bb8-5756-a273ccbbf00c","spec":{"type":"policy","cause":{"Message":"","User":"farhan5900 \u003cfarhan5900@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
